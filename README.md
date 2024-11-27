@@ -23,12 +23,14 @@ Professional web developer with experience creating and maintaining responsive, 
 - Continuous integration/Continuous deployment
 - database management
 
+## PROJECTS
+
+
 
 ## EDUCATION
 ### COURSERA, Mountain View, CA
 ### Computer Science
 ### IBM Full Stack Software Developer Graduated October 2024
-  Graduated October 2024
 - Designed with front-end development languages and tools such as HTML, CSS, JavaScript, React and Bootstrap
 - Built applications using back-end languages and frameworks like Express, Node.js, Python, Django, etc.
 - Deployed and scale applications using Cloud Native methodologies and tools like Containers, Kubernetes, Microservices and Serverless Functions
