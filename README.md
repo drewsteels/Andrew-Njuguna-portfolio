@@ -1,8 +1,5 @@
 # Full Stack Developer 
 
-## CONTACT 
-njugunaak@gmail.com
-
 ## ABOUT ME
 Professional web developer with experience creating and maintaining responsive, user-friendly web applications. Strong focus on team collaboration and delivering results.
 
@@ -39,5 +36,9 @@ Professional web developer with experience creating and maintaining responsive, 
 - Implemented Git, version control for files from working directory to all its states and pushing the repository into GitHub as well as pulling repositories from GitHub.
 
 ## WORK HISTORY
+
+
+## CONTACT 
+njugunaak@gmail.com
 
 
