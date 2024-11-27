@@ -15,12 +15,18 @@ Professional web developer with experience creating and maintaining responsive, 
 - Python
 - Flask
 - Django
+- MongoDB
 - Cloud Computing
 - SQL
-- SQLalchemy  
+- SQLalchemy
+- Kubernetes
+- express.js
+- redux.js 
 - SDLC development
 - Agile Methodologies
 - Continuous integration/Continuous deployment
+- Jenkins
+- Microservices
 - database management
 
 ## PROJECTS
